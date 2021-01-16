@@ -2,4 +2,6 @@
 
 50 Projects Data Science
 
-## 1.Project-01-Stock-Price-Visualizer
+## 1.01-Stock-Price-Visualizer
+
+## 2.02-Bioinformatic-DNA-Count
